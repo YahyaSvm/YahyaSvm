@@ -1,4 +1,1 @@
-## YahyaLD 
-<p align="center">
-    <a href="https://github.com/YahyaSvm"><img align="center" src="github-metrics.svg" /></a>
-</p>
+![Metrics](https://metrics.lecoq.io/yahyasvm?template=terminal&isocalendar=1&activity=1&lines=1&calendar=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&calendar=false&calendar.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FIstanbul)
